@@ -59,7 +59,8 @@ h3{
 
 #photo{
   position:absolute;
-  left:0px;
+  left:80px;
+	width:100%;
 }
 
 #logo {
